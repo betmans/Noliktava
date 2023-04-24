@@ -1,0 +1,77 @@
+body{
+   background-color: rgb(54, 128, 103); 
+   
+}
+h6 {
+    font-style: italic
+}
+ h3{color:brown;font-size:50px;}
+body{font-family: 'Dancing Script', cursive;
+  font-family: 'Delicious Handrawn', cursive;
+
+}
+
+.roza{color: rgb(196, 27, 55);
+}
+.augseja-kaste {
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    padding: 20px;
+    background-color: lightblue;
+    margin-left: px;
+    display: 
+  }
+.videja-kaste {
+    width: 200px;
+    height: 200px;
+    border: solid 20px;
+    background-color: pink;
+    margin-left : 260px;
+    display: none;
+  }
+.apakseja-kaste {
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    background-color: brown;
+    margin-left: 500px;
+    display: 
+  }
+
+
+  
+  .augs-kaste{
+    width:200px;
+    height:200px;
+    background-color: pink;
+    position: absolute;
+  }
+  .vid-kaste{
+    width:200px;
+    height:200px;
+    background-color: yellow;
+    position: absolute;
+    top: 800px;
+    left: 210px;
+  }.apaks-kaste{
+    width:200px;
+    height:200px;
+    background-color: blue;
+    position: absolute;
+    top: 800px;
+    left: 415px;
+  }
+.blakus{
+  width:  50%;
+  float: right;
+}
+table,tr,td{ border: 1px solid;
+border-collapse:collapse;
+}
+ul{
+  list-style-type: square;
+  color: blue;
+  background: #ff9999;
+  padding: 20px;
+}
